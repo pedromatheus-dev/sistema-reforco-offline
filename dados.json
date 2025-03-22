@@ -1,0 +1,158 @@
+{
+    "alunos": {
+        "Aquiles": {
+            "valor_hora": 18.0,
+            "dias_aulas": [
+                "Segunda",
+                "Ter\u00e7a",
+                "Quarta",
+                "Quinta",
+                "Sexta"
+            ]
+        },
+        "Pedro": {
+            "valor_hora": 20.0,
+            "dias_aulas": [
+                "Segunda",
+                "Quarta"
+            ]
+        },
+        "Davi": {
+            "valor_hora": 25.0,
+            "dias_aulas": [
+                "Ter\u00e7a",
+                "Sexta"
+            ]
+        }
+    },
+    "aulas": [
+        {
+            "nome": "Aquiles",
+            "data": "06/03/2025",
+            "hora_inicio": "15:50",
+            "hora_fim": "17:05",
+            "duracao": 1.25,
+            "total": 22.5
+        },
+        {
+            "nome": "Aquiles",
+            "data": "07/03/2025",
+            "hora_inicio": "15:00",
+            "hora_fim": "16:10",
+            "duracao": 1.17,
+            "total": 21.06
+        },
+        {
+            "nome": "Aquiles",
+            "data": "10/03/2025",
+            "hora_inicio": "15:10",
+            "hora_fim": "17:20",
+            "duracao": 2.17,
+            "total": 39.06
+        },
+        {
+            "nome": "Aquiles",
+            "data": "11/03/2025",
+            "hora_inicio": "15:00",
+            "hora_fim": "16:45",
+            "duracao": 1.75,
+            "total": 31.5
+        },
+        {
+            "nome": "Aquiles",
+            "data": "12/03/2025",
+            "hora_inicio": "15:00",
+            "hora_fim": "16:30",
+            "duracao": 1.5,
+            "total": 27.0
+        },
+        {
+            "nome": "Aquiles",
+            "data": "13/03/2025",
+            "hora_inicio": "16:00",
+            "hora_fim": "16:50",
+            "duracao": 0.83,
+            "total": 14.94
+        },
+        {
+            "nome": "Aquiles",
+            "data": "14/03/2025",
+            "hora_inicio": "15:00",
+            "hora_fim": "15:50",
+            "duracao": 0.83,
+            "total": 14.94
+        },
+        {
+            "nome": "Aquiles",
+            "data": "17/03/2025",
+            "hora_inicio": "14:50",
+            "hora_fim": "15:50",
+            "duracao": 1.0,
+            "total": 18.0
+        },
+        {
+            "nome": "Pedro",
+            "data": "17/03/2025",
+            "hora_inicio": "17:00",
+            "hora_fim": "18:00",
+            "duracao": 1.0,
+            "total": 20.0
+        },
+        {
+            "nome": "Aquiles",
+            "data": "18/03/2025",
+            "hora_inicio": "14:30",
+            "hora_fim": "15:30",
+            "duracao": 1.0,
+            "total": 18.0
+        },
+        {
+            "nome": "Pedro",
+            "data": "18/03/2025",
+            "hora_inicio": "16:00",
+            "hora_fim": "17:00",
+            "duracao": 1.0,
+            "total": 20.0
+        },
+        {
+            "nome": "Davi",
+            "data": "18/03/2025",
+            "hora_inicio": "17:00",
+            "hora_fim": "18:00",
+            "duracao": 1.0,
+            "total": 25.0
+        },
+        {
+            "nome": "Aquiles",
+            "data": "19/03/2025",
+            "hora_inicio": "12:00",
+            "hora_fim": "13:00",
+            "duracao": 1.0,
+            "total": 18.0
+        },
+        {
+            "nome": "Davi",
+            "data": "20/03/2025",
+            "hora_inicio": "14:00",
+            "hora_fim": "17:00",
+            "duracao": 3.0,
+            "total": 75.0
+        },
+        {
+            "nome": "Aquiles",
+            "data": "20/03/2025",
+            "hora_inicio": "16:00",
+            "hora_fim": "17:30",
+            "duracao": 1.5,
+            "total": 27.0
+        },
+        {
+            "nome": "Aquiles",
+            "data": "21/03/2025",
+            "hora_inicio": "15:00",
+            "hora_fim": "16:00",
+            "duracao": 1.0,
+            "total": 18.0
+        }
+    ]
+}
